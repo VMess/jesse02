@@ -76,7 +76,7 @@ class TemporaryDrawer extends React.Component {
               <MenuIcon onClick={this.toggleDrawer('left', true)} />
             </IconButton>
             <Typography variant="title" color="inherit" className={classes.grow}>
-              News
+              Resource Center
             </Typography>
             <Button color="inherit">Login</Button>
           </Toolbar>
